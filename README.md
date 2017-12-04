@@ -4,7 +4,7 @@ Il laboratorio sarà centrato sui dati di PHAIDRA illustrandone il modello e le 
 
 ### Parte 1
 
-[PHAIDRA](https://github.com/GiulioTuretta/la-biblioteca-dei-dati/blob/master/la-biblioteca-dei-dati-parte-1.pdf)
+[PHAIDRA: metadati e linguaggi](https://github.com/GiulioTuretta/la-biblioteca-dei-dati/blob/master/la-biblioteca-dei-dati-parte-1.pdf)
 
 - Overview e caratteristiche di PHAIDRA
 - Modello dei dati di PHAIDRA
@@ -14,7 +14,7 @@ Il laboratorio sarà centrato sui dati di PHAIDRA illustrandone il modello e le 
 
 ### Parte 2
 
-[Esperienze di mappatura](https://github.com/GiulioTuretta/la-biblioteca-dei-dati/blob/master/la-biblioteca-dei-dati-parte-1.pdf)
+[Esperienze di mappatura dei metadati](https://github.com/GiulioTuretta/la-biblioteca-dei-dati/blob/master/la-biblioteca-dei-dati-parte-2.pdf)
 
 - Dai musei a PHAIDRA
 - Dal Catalogo a PHAIDRA
@@ -32,7 +32,7 @@ Il laboratorio sarà centrato sui dati di PHAIDRA illustrandone il modello e le 
 
 Si svolgeranno le seguenti esercitazioni:
 
-1. [PHAIDRA API](https://github.com/GiulioTuretta/la-biblioteca-dei-dati/wiki/PHAIDRA-API)
-2. [OAI-PMH](https://github.com/GiulioTuretta/la-biblioteca-dei-dati/wiki/OAI-PMH)
-3. [MarcEdit](https://github.com/GiulioTuretta/la-biblioteca-dei-dati/wiki/MarcEdit)
-4. [MINT](https://github.com/GiulioTuretta/la-biblioteca-dei-dati/wiki/MINT)
+#### 1. [PHAIDRA API](https://github.com/GiulioTuretta/la-biblioteca-dei-dati/wiki/PHAIDRA-API)
+#### 2. [OAI-PMH](https://github.com/GiulioTuretta/la-biblioteca-dei-dati/wiki/OAI-PMH)
+#### 3. [MarcEdit](https://github.com/GiulioTuretta/la-biblioteca-dei-dati/wiki/MarcEdit)
+#### 4. [MINT](https://github.com/GiulioTuretta/la-biblioteca-dei-dati/wiki/MINT)
