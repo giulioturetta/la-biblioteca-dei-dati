@@ -22,3 +22,13 @@ Il laboratorio sarà centrato sui dati di PHAIDRA illustrandone il modello e le 
 ### Parte 4
 
 - Noi e il mondo: Europeana
+
+
+### Laboratorio
+
+Si svolgeranno le seguenti esercitazioni:
+
+1. [PHAIDRA API](https://github.com/GiulioTuretta/la-biblioteca-dei-dati/wiki/PHAIDRA-API)
+2. [OAI-PMH](https://github.com/GiulioTuretta/la-biblioteca-dei-dati/wiki/OAI-PMH)
+3. [MarcEdit](https://github.com/GiulioTuretta/la-biblioteca-dei-dati/wiki/MarcEdit)
+4. [MINT](https://github.com/GiulioTuretta/la-biblioteca-dei-dati/wiki/MINT)
