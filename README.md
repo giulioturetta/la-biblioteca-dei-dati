@@ -4,6 +4,8 @@ Il laboratorio sarà centrato sui dati di PHAIDRA illustrandone il modello e le 
 
 ### Parte 1
 
+[PHAIDRA](https://github.com/GiulioTuretta/la-biblioteca-dei-dati/blob/master/la-biblioteca-dei-dati-parte-1.pdf)
+
 - Overview e caratteristiche di PHAIDRA
 - Modello dei dati di PHAIDRA
 - Linguaggio XML
@@ -11,6 +13,8 @@ Il laboratorio sarà centrato sui dati di PHAIDRA illustrandone il modello e le 
 - Protocollo OAI-PMH
 
 ### Parte 2
+
+[Esperienze di mappatura](https://github.com/GiulioTuretta/la-biblioteca-dei-dati/blob/master/la-biblioteca-dei-dati-parte-1.pdf)
 
 - Dai musei a PHAIDRA
 - Dal Catalogo a PHAIDRA
