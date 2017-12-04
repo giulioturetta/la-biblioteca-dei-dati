@@ -14,7 +14,7 @@ Il laboratorio sarà centrato sui dati di PHAIDRA illustrandone il modello e le 
 
 ### Parte 2
 
-[Esperienze di mappatura dei metadati](https://github.com/GiulioTuretta/la-biblioteca-dei-dati/blob/master/la-biblioteca-dei-dati-parte-2.pdf)
+[PHAIDRA si arricchisce: esperienze di mappatura dei metadati](https://github.com/GiulioTuretta/la-biblioteca-dei-dati/blob/master/la-biblioteca-dei-dati-parte-2.pdf)
 
 - Dai musei a PHAIDRA
 - Dal Catalogo a PHAIDRA
