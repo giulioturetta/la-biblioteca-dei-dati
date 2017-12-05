@@ -15,7 +15,7 @@ Il laboratorio sarà centrato sui dati di PHAIDRA illustrandone il modello e le 
 - Dai musei a PHAIDRA
 - Dal Catalogo a PHAIDRA
 
-### 3. Profilo Dublin Core di PHAIDRA
+### 3. [Profilo Dublin Core di PHAIDRA](https://github.com/GiulioTuretta/la-biblioteca-dei-dati/blob/master/la-biblioteca-dei-dati-parte-3.pdf)
 
 - Il nuovo profilo Dublin Core di PHAIDRA
 
