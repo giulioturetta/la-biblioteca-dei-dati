@@ -15,11 +15,11 @@ Il laboratorio sarà centrato sui dati di PHAIDRA illustrandone il modello e le 
 - Dai musei a PHAIDRA
 - Dal Catalogo a PHAIDRA
 
-### 3.
+### 3. Profilo Dublin Core di PHAIDRA
 
 - Il nuovo profilo Dublin Core di PHAIDRA
 
-### 4.
+### 4. Noi e il mondo
 
 - Noi e il mondo: Europeana
 
