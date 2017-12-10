@@ -2,7 +2,7 @@
 
 Il laboratorio sarà centrato sui dati di PHAIDRA illustrandone il modello e le modalità di integrazione ed esposizione di contenuti e provenienze eterogenei. Parte del laboratorio sarà dedicata ad attività pratiche di mappatura di dati, anche attraverso l’ausilio di programmi di gestione e editor di dati.
 
-### 1. [PHAIDRA: metadati e linguaggi](https://github.com/GiulioTuretta/la-biblioteca-dei-dati/blob/master/la-biblioteca-dei-dati-parte-1.pdf)
+### 1. PHAIDRA: metadati e linguaggi
 
 - Overview e caratteristiche di PHAIDRA
 - Modello dei dati di PHAIDRA
@@ -10,12 +10,12 @@ Il laboratorio sarà centrato sui dati di PHAIDRA illustrandone il modello e le 
 - Le API di PHAIDRA
 - Protocollo OAI-PMH
 
-### 2. [PHAIDRA si arricchisce: esperienze di mappatura dei metadati](https://github.com/GiulioTuretta/la-biblioteca-dei-dati/blob/master/la-biblioteca-dei-dati-parte-2.pdf)
+### 2. PHAIDRA si arricchisce: esperienze di mappatura dei metadati
 
 - Dai musei a PHAIDRA
 - Dal Catalogo a PHAIDRA
 
-### 3. [Profilo Dublin Core di PHAIDRA](https://github.com/GiulioTuretta/la-biblioteca-dei-dati/blob/master/la-biblioteca-dei-dati-parte-3.pdf)
+### 3. Profilo Dublin Core di PHAIDRA
 
 - Il nuovo profilo Dublin Core di PHAIDRA
 
